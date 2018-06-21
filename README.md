@@ -1,5 +1,5 @@
 
-#jQuery Basics
+# jQuery Basics
 
 Okay, so we know how to include the jQuery library, and we’ve seen that it can help us change the text on elements we select. jQuery is a whole lot more than that, though! It makes tons of things we’d want to do a breeze, like:
 + finding particular elements on the page
